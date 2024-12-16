@@ -4,7 +4,7 @@ on:
     inputs:
       release_notes:
         description: '此处输入release发行说明:'
-        default: '用户未填写'
+        default: 'openwrt-24.10'
 # coolsnowwolf
 env:
   REPO_URL: https://github.com/openwrt/openwrt
